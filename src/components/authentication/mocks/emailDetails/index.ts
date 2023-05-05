@@ -1,0 +1,1 @@
+export * from './emailDetails.mock';
